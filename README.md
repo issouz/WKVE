@@ -1,2 +1,2 @@
 # WKVE
-Config WKVE
+Configuração WKVE
